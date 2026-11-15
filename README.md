@@ -29,12 +29,6 @@ Aplikasi bantu untuk **Harvest Moon: Back to Nature (PS1, NTSC-U)**. Anda bisa m
 3. Klik **Copy Codes** atau **Create File**, lalu tempel ke menu cheat emulator.
 4. Coba dengan sedikit petak atau slot dulu sebelum memakai desain penuh.
 
-## Build EXE dan APK
-Proyek siap build ada di `Farm-Layout-Item-Modifier-build-project.zip`.
-1. Upload isinya ke repository GitHub.
-2. Buka tab **Actions** dan jalankan **Build EXE dan APK**.
-3. Unduh `.exe` dan `.apk` dari bagian **Artifacts**.
-
 ## Catatan
 - **Cadangkan save atau save state** sebelum memakai kode.
 - Hanya untuk versi **NTSC-U**.
