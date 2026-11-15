@@ -1,0 +1,31 @@
+{
+  "name": "hmbtn-farm-layout",
+  "version": "1.0.0",
+  "description": "Farm Layout and Item Modifier - Harvest Moon: Back to Nature by Maru",
+  "author": "Maru",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "build": {
+    "appId": "com.maru.hmbtnfarm",
+    "productName": "Farm Layout and Item Modifier by Maru",
+    "files": [
+      "main.js",
+      "www/**/*"
+    ],
+    "win": {
+      "target": "portable",
+      "artifactName": "Farm-Layout-Item-Modifier-by-Maru.exe"
+    }
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.2.0",
+    "@capacitor/android": "^6.2.0"
+  },
+  "devDependencies": {
+    "electron": "^31.7.0",
+    "electron-builder": "^24.13.3",
+    "@capacitor/cli": "^6.2.0"
+  }
+}
